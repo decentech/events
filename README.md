@@ -20,7 +20,7 @@ Precise date and time TBC
 To Be Confirmed
 We need:
 * venue
-* team
+* team (social, events, admin, design etc)
 * partners - businesses, sponsors
 * speaker/s
 * theme
