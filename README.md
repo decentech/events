@@ -26,4 +26,4 @@ We need:
 * theme
 * etc
 
-### If you have any ideas for future events, or have skills and/or resources you wish to bring to the project, create a NEW ISSUE and suggest away.
+If you have any ideas for future events, or have skills and/or resources you wish to bring to the project, create a NEW ISSUE and suggest away.
