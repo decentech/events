@@ -27,3 +27,5 @@ We need:
 * etc
 
 If you have any ideas for future events, or have skills and/or resources you wish to bring to the project, create a NEW ISSUE and suggest away.
+
+hello@decen.tech
