@@ -7,7 +7,9 @@
 We take 3 consistent approaches:
 * education - newbie or seasoned pro our events will be designed for you to receive tangible value
 * overview - what's happening in the world of dapps (decentralised apps) - potential guest speaker
-* community building - we will **actively** commit to growing dapps communities by showing precisely you can help contribute to an open source project 
+* community building - we will **actively** commit to growing dapps communities by showing precisely you can help contribute to an open source project
+
+#### Like a bookclub but for decentralised tech projects. Each month we'll take a new focus, mentor others, learn together and share our knowledge.
 
 #### Whether you spell it Decentralized or Decentralised, we have your back.
 
@@ -29,3 +31,5 @@ We need:
 If you have any ideas for future events, or have skills and/or resources you wish to bring to the project, create a NEW ISSUE and suggest away.
 
 hello@decen.tech
+
+***this is an evolving file - feel free to branch and add your own interpretation**
