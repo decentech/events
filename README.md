@@ -1,4 +1,4 @@
-# Meetups
+# Events
 
 #### The tech scene is awash with brand specific events. We're different by design.
 
